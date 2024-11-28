@@ -10,8 +10,8 @@
 <body>
 
     <div class="nav">
-        <a href="leitores/form-cadastra-leitores.php"><button>Login</button></a>
-        <a href="./funcionário/form-funcionario.php"><span class="material-symbols-outlined">
+        <a href="leitores/form-cadastra-leitores.html"><button>Login</button></a>
+        <a href="./funcionário/form-funcionario.html"><span class="material-symbols-outlined">
 book_4_spark</span></a>
     </div>
 
